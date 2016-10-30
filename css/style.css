@@ -1,6 +1,12 @@
 body {
   padding-top: 70px;
   padding-bottom: 30px;
+  background: #EEE8D6;
+  font-family: 'Roboto Slab', Helvetica, sans-serif;
+}
+
+.navbar-inverse {
+  background: #022933;
 }
 
 .theme-dropdown .dropdown-menu {
@@ -15,4 +21,17 @@ body {
 
 .theme-showcase .navbar .container {
   width: auto;
+}
+
+.jumbotron {
+  background: #0076A3;
+  color: #ffffff;
+}
+
+.konpa {
+  color: #ffffff;
+}
+
+h1 {
+  color: #D14348;
 }
