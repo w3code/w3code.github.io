@@ -29,7 +29,8 @@ body {
 }
 
 .nils {
-  width: 50%;
+  /* width: 50%; */
+  z-index: 999;
   float: right;
 }
 
