@@ -9,6 +9,11 @@ body {
   background: #022933;
 }
 
+.pull-right {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
 .theme-dropdown .dropdown-menu {
   position: static;
   display: block;
@@ -29,11 +34,9 @@ body {
 }
 
 .nils {
-  /* width: 50%; */
   z-index: 999;
-  float: right;
+  /*float: right;*/
 }
-
 
 .w3img {
   max-width: 30px;
